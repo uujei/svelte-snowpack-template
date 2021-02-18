@@ -2,10 +2,10 @@
 
 ```bash
 ## Install template
-$ npx degit ParkYoungWoong/svelte-snowpack-template DIR_NAME
+$ npx degit uujei/svelte-snowpack-template your_project_name
 
 ## Change directory
-$ cd DIR_NAME
+$ cd your_project_name
 
 ## Install dependencies
 $ npm i
